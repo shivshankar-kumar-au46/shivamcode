@@ -1,0 +1,4 @@
+yesturday i attained the class i learnt many things
+like some more commands about git and github
+what is git, git is an example of vcs(Version control system) and github
+is act like cloud and it store all the data which is push or pull from my local pc.
